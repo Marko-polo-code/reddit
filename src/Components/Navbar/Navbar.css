@@ -1,0 +1,12 @@
+.navbar-logo {
+  width: 100px;
+  height: 100px;
+  margin-right: 10px;
+}
+
+input[type="text"] {
+  width: 60%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
